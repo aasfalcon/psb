@@ -1,4 +1,0 @@
-JACK-client
-numpy
-soundfile
-scikits.samplerate
