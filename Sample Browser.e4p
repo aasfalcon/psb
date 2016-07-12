@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE Project SYSTEM "Project-5.1.dtd">
 <!-- eric project file for project Sample Browser -->
-<!-- Saved: 2016-07-13, 05:24:52 -->
+<!-- Saved: 2016-07-13, 06:32:55 -->
 <!-- Copyright (C) 2016 Andy S., aasfalcon@gmail.com -->
 <Project version="5.1">
   <Language>en</Language>
@@ -18,11 +18,10 @@
     <Source>lib/player.py</Source>
     <Source>lib/__init__.py</Source>
     <Source>lib/pyx/__init__.py</Source>
-    <Source>build/lib.linux-armv7l-2.7/lib/player.py</Source>
-    <Source>build/lib.linux-armv7l-2.7/lib/__init__.py</Source>
-    <Source>build/lib.linux-armv7l-2.7/lib/pyx/__init__.py</Source>
     <Source>__init__.py</Source>
     <Source>setup.py</Source>
+    <Source>lib/window.py</Source>
+    <Source>lib/pyx/process.pyx</Source>
   </Sources>
   <Forms/>
   <Translations/>
