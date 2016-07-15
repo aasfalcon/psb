@@ -34,5 +34,5 @@ python3 setup.py install
 
 ## CHHANGELOG
 
-0.1.1 - added waveform image
-0.1.0 - initial version with file dialog
+- 0.1.1 - added waveform image
+- 0.1.0 - initial version with file dialog
