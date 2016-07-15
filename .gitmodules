@@ -1,0 +1,6 @@
+[submodule "vendor/wav2png/wav2png"]
+	path = vendor/wav2png/wav2png
+	url = https://github.com/beschulz/wav2png
+[submodule "vendor/samplerate"]
+	path = vendor/samplerate
+	url = https://github.com/bmcfee/samplerate

@@ -10,14 +10,14 @@ def read(fname):
 
 setup(
     name = 'Sample Browser',
-    version = '0.1.0',
+    version = '0.1.1',
     author = "Andy S.",
     author_email = "andrewjcarter@gmail.com",
-    packages = ['psb',  'lib'],
+    packages = ['main'],
     include_package_data = True,
     zip_safe = False,
     description = ("Simple sound file browser and previewer."),
-    long_description = read('README'),
+    long_description = read('README.md'),
     license = "BSD",
     keywords = "wav sample player file browser",
     classifiers = [
